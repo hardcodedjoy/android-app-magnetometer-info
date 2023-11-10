@@ -1,0 +1,1 @@
+This app reads the device's magnetic field sensor, displays the value of x, y, z components and also plots the real-time data, each axis on a separate plot.
